@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510329011 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t16\gradingexample\grades.cpp
+	<iostream>
+	<iomanip>
+	"grades.h"
+
+1510330330 c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t16\gradingexample\grades.h
+	<iostream>
+	<iomanip>
+
+1510328999 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t16\gradingexample\mult-quiz-driver.cpp
+	<iostream>
+	<iomanip>
+	"grades.h"
+

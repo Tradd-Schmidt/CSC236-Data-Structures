@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1510935809 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\dice.cpp
+	"dice.h"
+	"randgen.h"
+
+1510935140 c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\dice.h
+
+1510935634 c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\randgen.h
+	<cstdlib>
+
+1510935412 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\diceroll.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+
+1511194334 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\driver.cpp
+	"dice.h"
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+
+1510935858 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\t\t17\diceroll\randgen.cpp
+	"randgen.h"
+	<ctime>
+	<cmath>
+

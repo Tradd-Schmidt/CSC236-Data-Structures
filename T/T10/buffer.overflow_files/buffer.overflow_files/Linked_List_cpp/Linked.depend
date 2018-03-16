@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1411008906 source:c:\users\nakazawam\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked\linked_driver.cpp
+	<iostream>
+	"LList_partial.cpp"
+
+1410980777 c:\users\nakazawam\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked\listnode.cpp
+	<stdlib.h>
+
+1410980777 source:c:\users\nakazawam\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked\listnode.cpp
+	<stdlib.h>
+
+1411004325 source:c:\users\nakazawam\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
+1411004325 c:\users\nakazawam\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
+1411008906 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked_list_cpp\linked_driver.cpp
+	<iostream>
+	"LList_partial.cpp"
+
+1411091920 c:\users\pearcej\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked_list_cpp\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
+1411091683 c:\users\pearcej\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked_list_cpp\listnode.cpp
+	<stdlib.h>
+
+1411091683 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked_list_cpp\listnode.cpp
+	<stdlib.h>
+
+1411091920 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\textcode-python3\chapter4\linked_list_cpp\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
+1411091683 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\csc236-website\tasks\t10-files\linked_list_cpp\listnode.cpp
+	<stdlib.h>
+
+1411131228 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\csc236-website\tasks\t10-files\linked_list_cpp\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
+1411091683 c:\users\pearcej\dropbox\_mario-jan\_csc236\csc236-website\tasks\t10-files\linked_list_cpp\listnode.cpp
+	<stdlib.h>
+
+1411131475 source:c:\users\pearcej\dropbox\_mario-jan\_csc236\csc236-website\tasks\t10-files\linked_list_cpp\linked_driver.cpp
+	<iostream>
+	"LList_partial.cpp"
+
+1411131228 c:\users\pearcej\dropbox\_mario-jan\_csc236\csc236-website\tasks\t10-files\linked_list_cpp\llist_partial.cpp
+	"ListNode.cpp"
+	<string>
+	<assert.h>
+
