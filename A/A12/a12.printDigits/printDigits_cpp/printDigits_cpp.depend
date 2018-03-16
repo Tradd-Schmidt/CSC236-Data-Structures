@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508382003 source:c:\users\schmidtt\documents\college classes\fall 2017\csc 236 data structures\assignments\a\a12\a12.printdigits\printdigits_cpp\printdigits.cpp
+	<iostream>
+	<assert.h>
+

@@ -1,0 +1,22 @@
+Question:
+Is your animal tall?
+Question:
+Does your animal have wings?
+Question:
+Does your animal Bark?
+Guess:
+Is your animal a horse?
+Question:
+Is your animal domesticated?
+Guess:
+Is your animal a wolf?
+Guess:
+Is your animal a dog?
+Question:
+Does your animal swim?
+Guess:
+Is your animal a chicken
+Guess:
+Is your animal a duck?
+Guess:
+Is your animal a zebra?
